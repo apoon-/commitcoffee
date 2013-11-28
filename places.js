@@ -610,5 +610,20 @@ var places = [
 			"Provision": "Coffee, tea, juices, cake, salads, sandwiches",
 		},
 		"link": {"homepage":"http://www.espressohouse.se/hitta-oss/sverige/goeteborg/"}
+	},
+	{
+		"city": "Toronto",
+		"country": "CA",
+		"name": "Dark Horse Expresso Bar",
+		"address": "215 Spadina Ave, Suite 102, Toronto, ON M5T 2C7",
+		"coordinates": ["-79.396851", "43.650215"],
+		"description": {
+			"Internet": "Free WiFi, no password but has a splash page",
+			"Power Outlets": "None",
+			"Seating": "Two communal large desks at the lower level, more intimate seating for small parties upstairs",
+			"Service": "Friendly and great service",
+			"Provision": "Coffee, tea, juices, salads, sandwiches",
+		},
+		"link": {"homepage":"http://darkhorseespresso.com/"}
 	}
 ]
