@@ -622,7 +622,7 @@ var places = [
 			"Power Outlets": "None",
 			"Seating": "Two communal large desks at the lower level, more intimate seating for small parties upstairs",
 			"Service": "Friendly and great service",
-			"Provision": "Coffee, tea, juices, salads, sandwiches",
+			"Provision": "Coffee, tea, juices, salads, sandwiches, pastries",
 		},
 		"link": {"homepage":"http://darkhorseespresso.com/"}
 	}
