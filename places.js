@@ -616,7 +616,7 @@ var places = [
 		"country": "CA",
 		"name": "Dark Horse Expresso Bar",
 		"address": "215 Spadina Ave, Suite 102, Toronto, ON M5T 2C7",
-		"coordinates": ["-79.396851", "43.650215"],
+		"coordinates": ["43.650215", "-79.396851"],
 		"description": {
 			"Internet": "Free WiFi, no password but has a splash page",
 			"Power Outlets": "None",
@@ -625,5 +625,20 @@ var places = [
 			"Provision": "Coffee, tea, juices, salads, sandwiches, pastries",
 		},
 		"link": {"homepage":"http://darkhorseespresso.com/"}
+	},
+		{
+		"city": "Toronto",
+		"country": "CA",
+		"name": "Early Bird Espresso & Brew Bar",
+		"address": "613 Queen St. W, Toronto, ON",
+		"coordinates": ["43.647492", "-79.402527"],
+		"description": {
+			"Internet": "Free WiFi",
+			"Power Outlets": "None",
+			"Seating": "Communal large table and smaller tables in the back",
+			"Service": "Friendly and amazingly artistic baristas",
+			"Provision": "Coffee, tea & pastries",
+		},
+		"link": {"homepage":"https://www.facebook.com/EarlyBirdBrew/"}
 	}
 ]
