@@ -374,7 +374,7 @@ var places = [
 		"country": "GB",
 		"name": "Cafe Vintage",
 		"address": "88 Mountgrove Road London N5 2LT, near Arsenal Tube",
-		"coordinates": "",
+		"coordinates": ["51.561143", "-0.097318"],
 		"description": {
 			"Internet": "wifi (~4Mbit/s)",
 			"Power Outlets": "A few, and I bought them extensions which are available",
@@ -389,7 +389,7 @@ var places = [
 		"country": "GB",
 		"name": "Departure Cafe",
 		"address": "649/651 Commercial Road, Limehouse, London E14 7LW",
-		"coordinates": "",
+		"coordinates": ["51.512787", "-0.038269"],
 		"description": {
 			"Internet": "wifi (~8Mbit/s)",
 			"Power Outlets": "Plenty, 2 or 4 next to each desk, sofa or table",
@@ -404,7 +404,7 @@ var places = [
 		"country": "GB",
 		"name": "Scandinavian Kitchen",
 		"address": "61 Great Titchfield Street, London W1W 7PP",
-		"coordinates": "",
+		"coordinates": ["51.518752", "-0.140848"],
 		"description": {
 			"Internet": "free, WPA-protected Wi-Fi (~10 Mbps), stable and speedy",
 			"Power Outlets": "few are present, at least in the basement room",
@@ -491,7 +491,7 @@ var places = [
 	},
 	{
 		"city": "Cologne",
-		"country": "DE",
+		"country": "Germany",
 		"name": "Goldmund Literatur Cafe",
 		"address": "Glasstraße 2",
 		"coordinates": ["50.951221","6.919882"],
@@ -547,7 +547,7 @@ var places = [
 			"Power Outlets": "There are a few",
 			"Seating": "Comfortable seats",
 			"Service": "Very friendly",
-			"Provision": "Coffee, tea, juices, beers, cake, meals",
+			"Provision": "Coffee, tea, juices, beers, cake, meals"
 		},
 		"link": {"homepage":"http://www.hotelpiemont.pl/"}
 	},
@@ -562,7 +562,7 @@ var places = [
 			"Power Outlets": "There are a few",
 			"Seating": "Coffee shop and quiet lounge with couches and large tables for meetings",
 			"Service": "Very friendly",
-			"Provision": "Coffee, tea, juices, doughnuts, pastries",
+			"Provision": "Coffee, tea, juices, doughnuts, pastries"
 		},
 		"link": {"homepage":"http://www.discoverycoffee.com/"}
 	},
@@ -640,5 +640,1030 @@ var places = [
 			"Provision": "Coffee, tea & pastries",
 		},
 		"link": {"homepage":"https://www.facebook.com/EarlyBirdBrew/"}
+	},
+		{
+		"city": "Waterloo",
+		"country": "Canada",
+		"name": "Coffee Culture Café and Eatery",
+		"address": "31 King Street North, N2J 2W6",
+		"coordinates": ["43.46602", "-80.52265"],
+		"description": {
+			"Internet": "Not sure if there's free wifi",
+			"Power Outlets": "There are a few",
+			"Seating": "Comfortable seats",
+			"Service": "Very friendly",
+			"Provision": "Coffee, tea, juices, cake, meals",
+		},
+		"link": {"homepage":"http://www.coffeeculturecafe.com/"}
+	},
+	{
+		"city": "New York",
+		"country": "USA",
+		"name": "Ground Support",
+		"address": "399 W Broadway, NY 10012",
+		"coordinates": ["40.724282", "-74.002040"],
+		"description": {
+			"Internet": "Free wifi, great grilled cheese sandwich",
+			"Power Outlets": "Some",
+			"Seating": "Comfortable seats, outside benches",
+			"Service": "It's New York",
+			"Provision": "Coffee, tea, juices, cake, sandwiches",
+		},
+		"link": {"homepage":"http://groundsupportcafe.com/"}
+	},
+	{
+		"city": "Saint Louis",
+		"country": "USA",
+		"name": "Hartford Coffee",
+		"address": "3974 Hartford St",
+		"coordinates": ["38.602733", "-90.2524"],
+		"description": {
+			"Internet": "Free wifi, no password, good speed",
+			"Power Outlets": "By the walls; dedicated \"quiet zone\" with more in back",
+			"Seating": "Decent seats; raised laptop-bar area",
+			"Service": "Very friendly",
+			"Provision": "Coffee, tea, pastries, hot food",
+		},
+		"link": {"homepage":"http://www.hartfordcoffeecompany.com/"}
+	},
+	{
+		"city": "Minneapolis",
+		"country": "USA",
+		"name": "Butter Bakery Cafe",
+		"address": "3700 Nicollet Ave",
+		"coordinates": ["44.935797", "-93.278249"],
+		"description": {
+			"Internet": "Free wifi, ask for the password",
+			"Power Outlets": "They're spread about, but there's enough",
+			"Seating": "Ample seating, some counter, some tables",
+			"Service": "Very friendly",
+			"Provision": "Coffee, tea, juices, sandwiches, breakfast, etc",
+			"Hours": "Mon-Sat 7am-9pm, Sun 8am-5pm"
+		},
+		"link": {"homepage":"http://butterbakerycafe.com/"}
+	},
+	{
+		"city": "Chicago",
+		"country": "USA",
+		"name": "Eva's Cafe",
+		"address": "1447 N Sedgwick St",
+		"coordinates": ["41.908945", "-87.638398"],
+		"description": {
+			"Internet": "Free wifi, good speed, must buy to get the password",
+			"Power Outlets": "Most tables have outlets nearby",
+			"Seating": "Variety of seating - large tables, individual tables, a few comfy chairs",
+			"Service": "Very friendly",
+			"Provision": "Coffee, tea, juices, cake, small breakfast foods",
+		},
+		"link": {"homepage":"https://plus.google.com/107552475726057576910/about"}
+	},
+	{
+		"city": "Jacksonville",
+		"country": "USA",
+		"name": "Bold Bean Coffee Roasters",
+		"address": "869 Stockton Street, Suite 1-2, FL 32204",
+		"coordinates": ["30.3155766", "-81.6891937"],
+		"description": {
+			"Internet": "Free wifi, good speed, ask for the password.  Be mindful of their 'Web-Free Weekends.'  They turn the wifi off on Saturdays and Sundays to foster community.",
+			"Power Outlets": "There are a few",
+			"Seating": "Comfortable seats",
+			"Service": "Very friendly & great at what they do",
+			"Provision": "Exceptional coffee (roasted on-premises), tea, craft beer, baked goods, sandwiches at lunch time",
+		},
+		"link": {"homepage":"http://www.boldbeancoffee.com"}
+	},
+	{
+		"city": "Seattle",
+		"country": "USA",
+		"name": "Herkimer Coffee",
+		"address": "5611 The Ave Seattle, WA",
+		"coordinates": ["47.669845", "-122.31325"],
+		"description": {
+			"Internet": "Good wifi, good coffee",
+			"Power Outlets": "Usually at least two or three free",
+			"Seating": "A good variety",
+			"Service": "Warm Hearted",
+			"Provision": "Coffee, Pasteries",
+		},
+		"link": {"homepage":"http://herkimercoffee.com/locations.php"}
+	},
+ 	{
+        "city": "Liverpool",
+        "country": "UK",
+        "name": "Bold Street Coffee",
+        "address": "89 Bold Street, Liverpool, L1 4HF",
+        "coordinates": ["53.4024574","-2.9768352"],
+        "description": {
+            "Internet": "Free wifi, good speed",
+            "Power Outlets": "A few",
+            "Seating": "Comfortable tables, seats and benches",
+            "Service": "Very friendly, definitely know their coffee",
+            "Provision": "Coffee, tea, breakfast, cakes",
+            "Hours": "Mon-Fri 7.30-6, Sat 8-6, Sun 9.30-5"
+        },
+        "link": {"homepage":"http://www.boldstreetcoffee.co.uk/"}
+    },
+	{
+		"city": "Beacon",
+		"country": "USA",
+		"name": "Bank Square Coffeehouse",
+		"address": "129 Main Street",
+		"coordinates": ["41.50825", "-73.976997"],
+		"description": {
+			"Internet": "Free wifi, good speed. Network name: Bank Square",
+			"Power Outlets": "There are plenty",
+			"Seating": "Comfortable seats, couches, tables, al fresco",
+			"Service": "Very friendly",
+			"Provision": "Coffee, tea, beers, pastries, small meals",
+		},
+		"link": {"homepage":"http://banksquarecoffeehouse.com/"}
+	},
+	{
+		"city": "Bristol",
+		"country": "UK",
+		"name": "The Watershed Café/Bar",
+		"address": "1 Canon's Rd, Bristol BS1 5TX",
+		"coordinates": ["51.4520891", "-2.5980765"],
+		"description": {
+			"Internet": "Free, decent wifi. Ask for the password",
+			"Power Outlets": "Quite a few, particularly at the south end",
+			"Seating": "Not the best, but quite passable",
+			"Service": "Very friendly. Gets busy in evenings.",
+			"Provision": "Coffee, hot drinks, cider, decent food, locally sourced",
+			"Hours": "1000-2300, Sunday 1000-2230"
+		},
+		"link": {"homepage": "http://www.watershed.co.uk/food-drink/cafe-bar/"}
+	},
+	{
+		"city": "Cape Town",
+		"country": "ZA",
+		"name": "Truth HQ",
+		"address": "36 Buitenkant Street (between Barrack & Commercial)",
+		"coordinates": ["-33.9282112", "18.4225807"],
+		"description": {
+			"Internet": "Free wifi, no password",
+			"Power Outlets": "A few available, so aim for near the wall",
+			"Seating": "A good mixture of long and single tables, and a few couches here and there",
+			"Service": "Cool Cape Town vibe",
+			"Provision": "Great coffee, good breakfasts, and the usual coffee shop pastry selection."
+		},
+		"link": {
+			"homepage":"http://www.truthcoffee.com",
+			"facebook":"https://www.facebook.com/TRUTH.Coffee"
+		}
+	},
+	{
+		"city": "Cape Town",
+		"country": "ZA",
+		"name": "Truth Prestwich Memorial",
+		"address": "Somerset Road (Buitengracht Street), De Waterkant",
+		"coordinates": ["-33.914402", "18.4177761"],
+		"description": {
+			"Internet": "Free wifi, no password",
+			"Power Outlets": "A few available, so aim for near the wall",
+			"Seating": "Limited. A mixture of long and single tables",
+			"Service": "Good",
+			"Provision": "Great coffee, good breakfasts, and the usual coffee shop pastry selection."
+		},
+		"link": {
+			"homepage":"http://www.truthcoffee.com",
+			"facebook":"https://www.facebook.com/TRUTH.Coffee"
+		}
+	},
+	{
+		"city": "Cape Town",
+		"country": "ZA",
+		"name": "Origin Coffee Roasting",
+		"address": "28 Hudson Street, De Waterkant",
+		"coordinates": ["-33.9170189", "18.41749"],
+		"description": {
+			"Internet": "Free wifi, ask for password",
+			"Power Outlets": "A few places near the sides of the restaurant",
+			"Seating": "Comfortable rustic tables and seating",
+			"Service": "Good, depending on the time of day",
+			"Provision": "Great coffee!"
+		},
+		"link": {
+			"homepage":"http://www.originroasting.co.za",
+			"facebook":"https://www.facebook.com/originroasting"
+		}
+	},
+	{
+		"city": "London",
+		"country": "UK",
+		"name": "Browns of Brockley",
+		"address": "No. 5 Coulgate Street",
+		"coordinates": [ "51.464467", "-0.036954"],
+		"description": {
+			"Internet": "Free wifi, good speed, ask for the password",
+			"Power Outlets": "Unknown",
+			"Seating": "Comfortable bar stools",
+			"Service": "Very friendly",
+			"Provision": "Excellent coffee, sandwiches, pastries, cakes",
+		},
+		"link": {"homepage":"http://brownsofbrockley.com/"}
+	},
+	{
+		"city": "Austin",
+		"country": "USA",
+		"name":"Bennu",
+		"address": "2001 E. MLK Blvd.",
+		"coordinates": ["30.280009", "-97.719679"],
+		"description": {
+			"Internet": "Free wifi, good speed",
+			"Power Outlets": "Lots of power outlets near seats",
+			"Seating": "Lots of very comfortable chairs and couches",
+			"Service": "Friendly baristas",
+			"Provision": "All types of great mocha coffee",
+			"Hours": "24 Hours!"
+		},
+		"link": {"homepage":"http://www.bennucoffee.com/"}
+	},
+	{
+        "city": "Lakewood, OH",
+        "country": "USA",
+        "name": "The Root Cafe",
+        "address": "15118 Detroit Ave. Lakewood, Ohio 44107",
+        "coordinates": ["41.485154", "-81.802090"],
+        "description": {
+            "Internet": "Free wifi",
+            "Power Outlets": "Alone each wall",
+            "Seating": "Lots of tables and chairs, especially towards the back. Books and boardgames are available in bookcases.",
+            "Service": "Quick and friendly",
+            "Provision": "Coffee, tea, deserts, sandwiches"
+        },
+        "link": {"homepage":"http://www.theroot-cafe.com/"}
+    },
+	{
+		"city": "Omaha",
+		"state": "Nebraska",
+		"country": "USA",
+		"name": "Aromas Coffeehouse",
+		"address": "1033 Jones St",
+		"coordinates": ["41.253198","-95.930234"],
+		"description": {
+			"internet":"Free wifi even with a lot of people, ask for password",
+			"Power Outlets":"Most tables have one",
+			"Seating":"Couches and regular tables",
+			"Service":"Friendly, not always quick",
+			"Provision":"Coffee, tea, smoothies, pastries"
+		},
+		"link": {"homepage":"http://aromasomaha.com/"}
+	},
+	{
+        "city": "Rabat",
+        "country": "MA",
+        "name": "Café Viking",
+        "address": "49, Avenue moulay youssef",
+        "coordinates": ["34.014213", "-6.836497"],
+        "description": {
+            "Internet": "Free wifi, good speed",
+            "Power Outlets": "There are a few",
+            "Seating": "Comfortable seats",
+            "Service": "Very friendly",
+            "Provision": "Coffee, tea, juices, toasts",
+        },
+        "link": {"facebook":"https://www.facebook.com/pages/Viking/207492465937077"}
+    },
+    {
+        "city": "Austin",
+        "country": "USA",
+        "name": "Epoch",
+        "address": "221 W North Loop Blvd",
+        "coordinates": ["30.318686", "-97.724464"],
+        "description": {
+            "Internet": "Free wifi, good speed, password displayed on counter",
+            "Power Outlets": "Many, more than one per table",
+            "Seating": "Tables, couches, bar, outside seating",
+            "Service": "Great, very friendly",
+            "Provision": "Coffee, tea, soda, pizza, pastries, tacos",
+            "Hours": "24 hours"
+        },
+        "link": {"homepage": "http://www.epochcoffee.com"}
+    },
+	{
+		"city": "Toronto",
+		"country": "Canada",
+		"name": "Rooster Coffee House",
+		"address": "479 Broadview Avenue",
+		"coordinates": ["43.669105", "-79.352863"],
+		"description": {
+			"Internet": "Password protected -- password written on chalkboard",
+			"Power Outlets": "1 power bar at the back big table, one outlet at front windows, north side",
+			"Seating": "four lounge chair, lots of outdoor seating, big back communal table for working",
+			"Service": "very friendly, great coffee, good music, quality wifi",
+			"Provision": "coffee, tea, sandwiches, baked goods. Can buy beans to go",
+			"Hours": "Mon-Fri 7am-7pm, Sat 7am-7pm, Sun 7am-7pm"
+		},
+		"link": {"homepage":"http://roostercoffeehouse.com/"}
+	},
+	{
+		"city": "Toronto",
+		"country": "Canada",
+		"name": "The Green Grind",
+		"address": "567 College Street",
+		"coordinates": ["43.655536", "-79.412567"],
+		"description": {
+			"Internet": "Password protected -- ask for password",
+			"Power Outlets": "1 power bar at each end of big communal table",
+			"Seating": "Big communal work table, 3 small 2-person tables, and half dozen lounge chairs",
+			"Service": "Consistently good wifi, very quiet (sometimes play music, good hot drinks and food)",
+			"Provision": "coffee, tea, sandwiches, baked goods. Can buy beans to go",
+			"Hours": "Monday-Friday  8am – 8pm, Saturday-Sunday 9am – 7pm"
+		},
+		"link": {"homepage":"http://www.thegreengrind.ca/"}
+	},
+	{
+		"city": "London",
+		"name": "Department of Coffee and Social Affairs",
+		"country": "United Kingdom",
+		"address": "14-16 Leather Lane",
+		"coordinates": ["51.519461", "-0.109058"],
+		"description": {
+			"Internet": "Free password protected internet",
+			"Power Outlets": "There are several, especially in the back room",
+			"Seating": "Busy third wave coffee shop, great team table in back room",
+			"Service": "The nicest hipsters in town",
+			"Provision": "Coffee, tea, juices, pastry, ace sandwiches",
+		},
+		"link": {"homepage":"http://www.departmentofcoffee.co.uk/"}
+	},
+    {
+        "city": "Ithaca",
+        "name": "Gimme! Coffee",
+        "country": "USA",
+        "address": "506 W State St",
+        "coordinates": ["42.439408", "-76.506432"],
+        "description": {
+            "Internet": "Free open internet",
+            "Power Outlets": "Plenty",
+            "Seating": "Coffee shop and quiet lounge with couches and large tables for meetings",
+            "Service": "Very friendly",
+            "Provision": "Coffee, some bakery items",
+        },
+        "link": {"homepage":"http://www.gimmecoffee.com"}
+	},
+	{
+        "city": "Caldwell",
+        "name": "Rock 'n Joe Coffe House and Bistro",
+        "country": "USA",
+        "address": "339 Bloomfield Ave",
+        "coordinates": ["40.840251","-74.276475"],
+        "description": {
+            "Internet": "Free open internet",
+            "Power Outlets": "Plenty of outlets",
+            "Seating": "Coffee shop and with couches and tables",
+            "Service": "Very friendly",
+            "Provision": "Coffee, tea, juices, doughnuts, pastries",
+        },
+        "link": {"homepage":"http://www.rocknjoe.net"}
+    },
+	{
+		"city": "Edinburgh",
+		"country": "GB",
+		"name": "Brew Lab",
+		"address": "6-8 South College Street, Edinburgh, EH8 9AA",
+		"coordinates": ["55.947068", "-3.186614"],
+		"description": {
+			"Internet": "Free Wifi Access, stable and fast",
+			"Power Outlets": "Generally available if you sit close to a wall",
+			"Seating": "Two sofas, coffee table, long table, benches, bar stools with table access",
+			"Service": "Fantastic, really take pride in their work",
+			"Provision": "Artisan coffee, tea, cakes, soup, sandwiches, drinks and coffee brewing equipment."
+		},
+		"link": {
+			"facebook": "https://www.facebook.com/BrewLabCoffee",
+			"homepage": "http://www.brewlabcoffee.co.uk/"
+		}
+	},
+	{
+		"city": "Linköping",
+		"country": "SE",
+		"name": "De Klomp",
+		"address": "S:T Larsgatan 13",
+		"coordinates": ["58.413401","15.623704"],
+		"description": {
+			"Internet": "wifi free (Open Network)",
+			"Power Outlets": "By the windows",
+			"Seating": "Tables, Couches, Bar",
+			"Service": "Wonderful Beer Selection",
+			"Provision": "Beer, Food, Tea, Coffee, Snacks",
+		},
+		"link": {"homepage":"http://www.deklomp.se/"}
+	},
+	{
+		"city": "Kyiv",
+		"country": "Ukraine",
+		"name": "Chasopys",
+		"address": "Lva Tolstoho 3",
+		"coordinates": ["50.4395", "30.515017"],
+		"description": {
+			"Format": "Pay for time",
+			"Internet": "Free wifi, nice speed, password protected",
+			"Power outlets": "A lot of them",
+			"Service": "Self-service",
+			"Provision": "Coffee, tea, hot chocolate, sandwiches"
+		}
+	},
+	{
+		"city": "San Francisco",
+		"name": "Haus Coffee",
+		"country": "USA",
+		"address": "3086 24th St",
+		"coordinates": ["37.752641","-122.413729"],
+		"description": {
+			"Internet": "Free open internet",
+			"Power Outlets": "There are a few",
+			"Seating": "Tables and chairs for groups, couple of comfortable sofas, and a beautiful outdoor patio",
+			"Service": "Very friendly",
+			"Provision": "Coffee, tea, juices, pastries.",
+		},
+		"link": {
+			"homepage":"https://plus.google.com/105646394886961700159"
+		}
+	},
+	{
+		"city": "San Francisco",
+		"name": "Ritual Roasters",
+		"country": "USA",
+		"address": "1026 Valencia St",
+		"coordinates": ["37.756490", "-122.421263"],
+		"description": {
+			"Internet": "Free open internet",
+			"Power Outlets": "There are a few",
+			"Seating": "Tables and chairs for groups, individual seating at the bar.",
+			"Service": "Very friendly",
+			"Provision": "Espresso, pour-over coffee, tea, and some pastries.",
+		},
+		"link": {
+			"homepage":"http://www.ritualroasters.com/‎"
+		}
+	},
+	{
+		"city": "Curitiba",
+		"country": "BR",
+		"name": "Rubi Café",
+		"address": "Visconde de Nácar, 1322",
+		"coordinates": ["-25.433903", "-49.277267"],
+		"description": {
+			"Internet": "Good latency, ask for the password",
+			"Power Outlets": "Few",
+			"Seating": "Comfortable tables",
+			"Service": "Friendly",
+			"Provision": "Coffee, tea, juices, beers, cake, meals",
+		},
+		"link": {"homepage":"https://www.facebook.com/RubiCafe"}
+	},
+	{
+		"city": "Portland",
+		"country": "USA",
+		"name": "Ford Food and Drink",
+		"address": "2505 SE 11th Ave.",
+		"coordinates": ["45.504740", "-122.655023"],
+		"description": {
+			"Internet": "Free wifi, good speed",
+			"Power Outlets": "There are a few",
+			"Seating": "Comfortable seats",
+			"Service": "Very friendly",
+			"Provision": "Coffee, tea, juices, beers, cake, meals"
+		},
+		"link": {"homepage":"http://www.fordfoodanddrink.com/"}
+	},
+	{
+		"city": "Portland",
+		"country": "USA",
+		"name": "Papaccino's",
+		"address": "4411 SE Woodstock Blvd.",
+		"coordinates": ["45.479331", "-122.617117"],
+		"description": {
+			"Internet": "Free wifi, good speed",
+			"Power Outlets": "There are a few",
+			"Seating": "Comfortable seats",
+			"Service": "Very friendly",
+			"Provision": "Coffee, tea, pastries, cereal bar"
+		},
+		"link": {"homepage":"https://www.facebook.com/papaccinos"}
+	},
+	{
+		"city": "Dublin",
+		"name": "3FE Coffee",
+		"country": "Ireland",
+		"address": "32/34 Lower Grand Canal, Dublin 2",
+		"coordinates": ["53.339926", "-6.2419822"],
+		"description": {
+			"Internet": "Free WiFi internet",
+			"Power Outlets": "Some",
+			"Seating": "Premium coffee shop, considered Ireland's finest ",
+			"Service": "Very friendly",
+			"Provision": "Coffee, tea, brownies, pastries",
+		},
+		"link": {"homepage":"http://www.3fe.com/"}
+	},
+	{
+		"city": "Palo Alto",
+		"country": "USA",
+		"name": "3 G's Cafe",
+		"address": "456 Cambridge Ave",
+		"coordinates": ["37.426552", "-122.146317"],
+		"description": {
+			"Internet": "Free wifi, good speed, ask for the password",
+			"Power Outlets": "Plenty",
+			"Seating": "Few but good chairs, outdoor morning sun",
+			"Service": "Very friendly",
+			"Provision": "Coffee, tea, juices, beers, cake, meals",
+		},
+		"link": {"yelp":"http://www.yelp.com/biz/3-gs-cafe-palo-alto"}
+	},
+	{
+        "city": "Toronto",
+        "country": "Canada",
+        "name": "Dark Horse Espresso Bar",
+        "address": "684 Queen St W, Toronto, Ontario",
+        "coordinates": ["43.646588", "-79.407580"],
+        "description": {
+            "Internet": "free wifi, I've had to ask them to reset the router once or twice, but usually it's fine.",
+			"Power Outlets": "They exist, but are not as widespread as they could be.",
+			"Seating": "Benches and some chairs",
+			"Service": "Generally friendly and helpful",
+			"Provision": "Incredibly good coffee.  Ask for the Pour-over!",
+			"Hours": "Mon-Fri 07:00 - 20:00, Sat-Sun 08:00 - 20:00"
+        },
+        "link": {"homepage": "http://darkhorseespresso.com/"}
+    },
+	{
+		"city": "Kastrup",
+		"country": "DK",
+		"name": "Starbucks",
+		"address": "Lufthavnsboulevarden 6",
+		"coordinates": ["55.628977", "12.64977"],
+		"description": {
+			"Internet": "Free WiFi",
+			"Power Outlets": "On the wall, Danish type",
+			"Seating": "Chairs and coffee tables",
+			"Service": "It's Starbucks!",
+			"Provision": "All Starbucksy stuff."
+		},
+		"link": {"facebook":"startbucks.com"}
+	},
+	{
+		"city": "San Francisco",
+		"country": "USA",
+		"name": "Coffee Bar",
+		"address": "1890 Bryant St",
+		"coordinates": ["37.763133", "-122.410931"],
+		"description": {
+			"Internet": "Free wifi, reliable and good speed",
+			"Power Outlets": "Quite a few",
+			"Seating": "Fairly comfortable seats",
+			"Service": "Good service",
+			"Provision": "Coffee, tea, salads, sandwiches",
+		},
+		"link": {"homepage":"http://www.coffeebarsf.com/"}
+	},
+	{
+		"city": "Orenburg",
+		"name": "Прокоffий",
+		"country": "Russia",
+		"address": "4/2 Donetskaya Street",
+		"coordinates": ["51.762418", "55.121874"],
+		"description": {
+			"Internet": "WiFi password: freeforyou",
+			"Power Outlets": "There are a few",
+			"Seating": "Coffee shop with very strange furniture and small tables",
+			"Service": "Very friendly",
+			"Provision": "Coffee, tea, drinks, delicious food",
+		}
+	},
+	{
+		"city": "San Mateo",
+		"name": "Kaffeehaus",
+		"country": "USA",
+		"address": "92 E 3rd Ave",
+		"coordinates": ["37.563981", "-122.324314"],
+		"description": {
+			"Internet": "Free open internet",
+			"Power Outlets": "There are a few",
+			"Seating": "Tables, booths, bar and outdoor seating",
+			"Service": "Very friendly",
+			"Provision": "Coffee, wine, tea, juices, salads, pastries",
+		},
+		"link": {"homepage":"http://mykaffeehaus.com/"}
+	},
+	{
+		"city": "Seattle",
+		"name": "Zeitgeist",
+		"country": "USA",
+		"address": "171 S. Jackson St  Seattle",
+		"coordinates": ["47.599107", "-122.331924"],
+		"description": {
+			"Internet": "Free fast internet",
+			"Power Outlets": "There are a few",
+			"Seating": "Tables and local art",
+			"Service": "Very friendly",
+			"Provision": "Coffee, tea, juices, sandwiches, pastries",
+		},
+		"link": {"homepage":"http://zeitgeistcoffee.com"}
+	},
+	{
+		"city": "San Antonio",
+		"country": "USA",
+		"name": "Brown Coffee Company",
+		"address": "1800 Broadway St",
+		"coordinates": ["29.442948", "-98.476649"],
+		"description": {
+			"Internet": "Free wifi, good speed, ask for the password",
+			"Power Outlets": "There are a few",
+			"Seating": "Some individual tables, some long tables",
+			"Service": "Very friendly",
+			"Provision": "Coffee, espresso, some pastries, Mexican coke, Topo Chico",
+		},
+		"link": {"homepage":"http://browncoffeeco.com/"}
+	},
+	{
+		"city": "San Francisco",
+		"country": "USA",
+		"name": "Greenhouse Cafe",
+		"address": "329 West Portal Ave. San Francisco CA",
+		"coordinates": ["37.737546", "-122.469400"],
+		"description": {
+			"Internet": "Ask for password, good coffee and light food",
+			"Power Outlets": "There are several against the wall",
+			"Seating": "Small tables, couches and comfortable back room",
+			"Service": "Friendly",
+			"Provision": "Coffee, tea, wraps, bagels, sandwhiches, etc",
+			"Hours": "Mon-Fri 7 am - 6 pm, Sat-Sun 8 am - 5 pm"
+		},
+		"link": {"homepage":"http://www.greenhousecafe-sf.com/"}
+	},
+	{
+		"city": "Roseville",
+		"country": "US",
+		"name": "Bloom Coffee",
+		"address": "1485 Eureka Road, Roseville",
+		"coordinates": ["38.752791", "-121.251637"],
+		"description": {
+			"Internet": "Free wifi, excellent coffee",
+			"Power Outlets": "Several along the walls.",
+			"Seating": "Bar-style seating along one wall, standard coffee-shop tables, couches and cushy chairs in the center.",
+			"Service": "Usually good, and they know their coffee.",
+			"Provision": "Coffee, tea, hot breakfast, pastries. A little pricey, but VERY good coffee and food."
+		},
+		"link": {"homepage":"http://www.bloomcoffee.com/"}
+	},
+	{
+		"city": "Dallas",
+		"country": "USA",
+		"name": "Sip | Stir",
+		"address": "3800 McKinney Ave. #180 Dallas, TX 75204",
+		"coordinates": ["32.808883", "-96.795454"],
+		"description": {
+			"Internet": "Free.  Speed is OK.  Ask for the password.",
+			"Power Outlets": "Plenty",
+			"Seating": "Always somewhere to sit, but not too quiet.",
+			"Service": "Super friendly",
+			"Provision": "Great coffee and pastries.",
+		},
+		"link": {"homepage":"http://www.sipstircafe.com/"}
+	},
+	{
+		"city": "Mountain View",
+		"country": "USA",
+		"name": "Red Rock",
+		"address": "201 Castro St, Mountain View, CA 94041",
+		"coordinates": ["37.393611", "-122.078774"],
+		"description": {
+			"Internet": "Free stable WIFI and Google public WIFI also available",
+			"Power Outlets": "Lots",
+			"Seating": "Plenty, and there is a second floor that is quieter, get there early it fills up fairly quickly",
+			"Service": "Very friendly",
+			"Provision": "Coffee, tea, muffins, snacks",
+		},
+		"link": {"homepage":"http://www.redrockcoffee.org/"}
+	},
+	{
+		"city": "London",
+		"country": "United Kingdom",
+		"name": "TAP Coffee No.193",
+		"address": "193 Wardour Street, W1F 8ZF, London",
+		"coordinates": ["51.515707", "-0.135958"],
+		"description": {
+			"Internet": "Password written on a toy. Try to find it.",
+			"Power Outlets": "The only issue. Staff likely to share electricity from the bar.",
+			"Seating": "Small tables, comfortable seats. Enough space.",
+			"Service": "Friendly, relaxed, skilled, knowledgeable.",
+			"Provision": "Exceptional coffee, toasted Banana Bread's price is for two slices - unlike anywhere else.",
+			"Hours": "Mon-Fri 8am - 7pm, Sat 10am - 6pm, Sun 12pm - 6pm"
+		},
+		"link": {"homepage":"http://www.tapcoffee.co.uk/"}
+	},
+	{
+		"city": "Boston",
+		"country": "USA",
+		"name": "Fuel America",
+		"address": "152 Chestnut Hill Avenue, Brighton, MA",
+		"coordinates": ["42.341715", "-71.154322"],
+		"description": {
+			"Internet": "Free wifi, password is on a slip at the counter",
+			"Power Outlets": "There are a few",
+			"Seating": "Plenty of tables, couches, and chairs, plus a counter at the window",
+			"Service": "Very friendly",
+			"Provision": "Coffee, tea, sandwiches",
+			"Hours" : "Mon-Fri 7:00 AM-6:00 PM, Sat 7:00 AM-9:00 PM, Sun 8:00 AM-9:00 PM"
+		}
+	},
+	{
+		"city": "Smyrna",
+		"country": "USA",
+		"name": "Rev Coffee",
+		"address": "1680-B Spring Road, Smyrna, Georgia 30080",
+		"coordinates": ["33.882210","-84.504317"],
+		"description": {
+			"Internet": "Wifi free",
+			"Power Outlets": "There are several",
+			"Seating": "Chairs, sofas, many tables inside and a few outside as well",
+			"Service": "Great",
+			"Provision": "Coffee, tea, soft and other bottled drinks. Cookies, muffins, quiches, and tarts. Pressed sandwiches as well as the chicken salad are tasty.  Fresh roasted beans and other coffee paraphernalia."
+		},
+		"link": {"facebook":"http://www.revcoffee.com"}
+	},
+	{
+		"city": "Cedar Park",
+		"country": "USA",
+		"name": "Roasters Coffee Cafe",
+		"address": "2011 Little Elm Trail",
+		"coordinates": ["30.480037", "-97.828855"],
+		"description": {
+			"Internet": "Free wifi, speed was fine.",
+			"Power Outlets": "This is lacking, charge before you go.",
+			"Seating": "Mostly cheap chairs with some couches",
+			"Provision": "Coffee, tea, muffins, juice, etc. No real food.",
+		},
+		"link": {
+			"homepage":"http://www.roasterscoffeecafe.com/",
+			"yelp":"http://www.yelp.com/biz/roasters-coffee-cafe-cedar-park?nb=1"
+		}
+	},
+	{
+		"city": "Montréal",
+		"name": "Café Larue & Fils",
+		"country": "Canada",
+		"address": "244, De Castelnau Est",
+		"coordinates": ["45.53784", "-73.61809"],
+		"description": {
+			"Internet": "Free open internet",
+			"Power Outlets": "A few",
+			"Seating": "Mostly large tables with bar stools",
+			"Service": "Very friendly",
+			"Provision": "Coffee, tea, juices, panini, pastries",
+		},
+		"link": {"homepage":"https://www.facebook.com/caffedellavia"}
+	},
+	{
+		"city": "Cambridge",
+		"country": "UK",
+		"name": "Hot Numbers",
+		"address": "Dales Brewery, Gwydir Street",
+		"coordinates": ["52.200088","0.138362"],
+		"telephone": "+44 1223 359966",
+		"description": {
+			"Internet": "Free wifi, good speed, just ask for the password",
+			"Power Outlets": "Plentiful",
+			"Seating": "Trendy Benches, Large Tables, but it gets busy, so be in quick to nab a spot.",
+			"Service": "Very friendly, knowledgeable",
+			"Provision": "Artisinal coffee, tea, juices, cake, snacks, etc",
+			"Hours": "Daily 7:30-18:00"
+		},
+		"link": {"homepage":"http://www.hotnumberscoffee.co.uk/"}
+	},
+	{
+		"city": "Travelers Rest",
+		"country": "USA",
+		"name": "The Forest Coffeehouse",
+		"address": "27 South Main Street, Travelers Rest, SC 29690",
+		"coordinates": ["34.965672", "-82.441534"],
+		"description": {
+			"Internet": "Free wifi, okay speed",
+			"Power Outlets": "There are a few",
+			"Seating": "Lots of seating",
+			"Service": "Good",
+			"Provision": "Coffee, tea, juices, cake, salads, sandwiches",
+		},
+		"link": {"homepage":"http://www.theforestcoffee.com/"}
+	},
+	{
+		"city": "New York",
+		"country": "USA",
+		"name": "Vbar",
+		"address": "132 1st Ave",
+		"coordinates": ["40.727395", "-73.985130"],
+		"description": {
+			"Internet": "Fast Wi-Fi",
+			"Power Outlets": "Several along the northern wall and at the high table",
+			"Seating": "Regular chairs",
+			"Provision": "Coffee, tea, pastries, lunch menu (mostly sandwiches and pasta)"
+		},
+		"link": {
+			"homepage":"http://vbarandcompany.com/"
+		}
+	},
+	{
+		"city": "Montreal",
+		"country": "CA",
+		"name": "Café Expressions",
+		"address": "957 Avenue du Mont-Royal Est Montréal, QC H2J 1X4",
+		"coordinates": ["45.527141", "-73.580078"],
+		"description": {
+			"Internet": "Free WiFi, but not so fast",
+			"Power Outlets": "There are a few",
+			"Seating": "Chairs and benches, could be more comfortable",
+			"Service": "Okay service",
+			"Provision": "Fair trade and organic coffee and tea, more...",
+		},
+		"link": {"homepage":"https://plus.google.com/113437543592526873134/about?gl=ca&hl=en"}
+	},
+	{
+		"city": "St. Catharines",
+		"country": "Canada",
+		"name": "Mahtay Café & Lounge",
+		"address": "241 St. Paul Street",
+		"coordinates": ["43.158550", "-79.243172"],
+		"description": {
+			"Internet": "Free wifi, reliable and good speed",
+			"Power Outlets": "Plentiful",
+			"Seating": "Handful of tables, bar with stools, some couches and comfy chairs",
+			"Service": "Excellent, very friendly and accommodating",
+			"Provision": "Coffee, tea, juice, sandwiches, soups, sweets, craft beers",
+		},
+		"link": {"homepage":"http://www.mahtay.ca/"}
+	},
+	{
+		"city": "Port Coquitlam",
+		"country": "Canada",
+		"name": "Tim Hortons",
+		"address": "1320 Kingsway Ave",
+		"coordinates": ["49.246938","-122.748767"],
+		"description": {
+			"Internet": "Free wifi, reliable and good speed",
+			"Power Outlets": "Yes",
+			"Seating": "Tons of room",
+			"Service": "Lots of room no one will bug you",
+			"Provision": "Coffee, tea, juices, sandwiches, and a Wendys",
+		},
+		"link": {"homepage":"http://www.timhortons.com/ca/locator/storedirections.html?id=101911"}
+	},
+	{
+		"city": "Pittsburgh",
+		"country": "United States",
+		"name": "Coffee Tree Roasters",
+		"address": "48 Fox Chapel Road",
+		"coordinates": ["40.488391","-79.8830234"],
+		"description": {
+			"Internet": "Fast wifi, always free",
+			"Power Outlets": "Multiple outlets across every wall",
+			"Seating": "small tables with 1-2 seats at each",
+			"Service": "always friendly - very busy in the mornings",
+			"Provision": "different coffees from around the world, many different types of pastries, great teas."
+		},
+		"link": {"homepage":"http://www.coffeetree.com"}
+	},
+	{
+		"city": "São Paulo",
+		"country": "BR",
+		"name": "Nina Veloso Pâtisserie",
+		"address": "Rua Costa Carvalho, 195, Pinheiros",
+		"coordinates": ["-23.561647", "-46.699065"],
+		"description": {
+			"Internet": "Free wifi",
+			"Power Outlets": "Unknown",
+			"Seating": "Chairs, benches and also a sofa upstairs",
+			"Service": "Very friendly and efficient",
+			"Provision": "Their main thing is pastries, but they have a really good espresso as well",
+		},
+		"link": {"homepage":"http://www.ninaveloso.com.br/"}
+	},
+	{
+		"city": "Ottawa",
+		"country": "CA",
+		"name": "Bridgehead",
+		"address": "109 Bank Street",
+		"coordinates": ["45.419924", "-75.700197"],
+		"description": {
+			"Internet": "Free wifi, reliable and good speed",
+			"Power Outlets": "A few",
+			"Seating": "Fairly comfortable seats",
+			"Service": "Very friendly",
+			"Provision": "Coffee, tea, juices, cake, salads, sandwiches"
+		},
+		"link": {"homepage":"http://www.bridgehead.ca/"}
+	},
+	{
+		"city": "Homewood",
+		"country": "US",
+		"name": "O'Henry's Coffee",
+		"address": "2831 18th St S, Homewood AL 35209",
+		"coordinates": ["33.480194","-86.791767"],
+		"description": {
+			"Internet": "Free wifi, reliable and good speed",
+			"Power Outlets": "A handful scattered throughout the space",
+			"Seating": "Lots of seating, not all comfortable for extended work sessions",
+			"Service": "Counter service",
+			"Provision": "Coffee, tea, cake, pastries, cookies",
+		},
+		"link": {"homepage":"http://www.ohenryscoffees.com/"}
+	},
+	{
+		"city": "Bogotá",
+		"country": "Colombia",
+		"name": "Arte y Pasión",
+		"address": "Calle 16 No 7-76 Antiguo Gun Club",
+		"coordinates": ["4.602874", "-74.073312"],
+		"description": {
+			"Internet": "Free wifi, good speed, must buy to get the password",
+			"Power Outlets": "There are a few",
+			"Seating": "Variety of seating - large tables, individual tables, a few comfy chairs",
+			"Service": "Very friendly",
+			"Provision": "coffee, tea, sandwiches, muffins, sweets, lunch",
+			"Hours": "Mon-Sat 7am-9pm, Sun 8am-5pm"
+		},
+		"link": {"homepage":"http://www.arteypasioncafe.com/"}
+	},
+	{
+		"city": "Berlin",
+		"country": "Germany",
+		"name": "Tischendorf",
+		"address": "Friedelstrasse 25, 12047 Neuköln",
+		"coordinates": ["52.49206", "13.42825"],
+		"description": {
+			"Internet": "Free wifi, decent speed",
+			"Power Outlets": "Tables on the left from entrance have access to power outlets",
+			"Seating": "Wooden benches and chairs",
+			"Service": "Very friendly",
+			"Provision": "Coffee, tea, beer, cake, pastry, breakfast",
+			"Hours": "Everyday 9am-8pm, 'Laptop-free' Sundays"
+		},
+		"link": {
+			"homepage": "http://tischendorf-berlin.de/",
+			"facebook": "https://www.facebook.com/pages/Tischendorf/315316785224423"
+		}
+	},
+	{
+		"city": "Kiev",
+		"country": "Ukraine",
+		"name": "Chashka Espresso Bar",
+		"address": "Chervonoarmiiska Vulytsia, 1",
+		"coordinates": ["50.441845", "30.521385"],
+		"description": {
+			"Internet": "Free wifi, ask for the password",
+			"Power Outlets": "By the walls",
+			"Seating": "Nice tables, seats and couches, comfortable bar stools",
+			"Service": "Very friendly",
+			"Provision": "Coffee, tea, juices, sandwiches, breakfast, etc",
+		},
+		"link": {"homepage":"https://www.facebook.com/ChashkaKiev"}
+	},
+	{
+		"city": "Geneseo",
+		"country": "USA",
+		"name": "Muddy Waters",
+		"address": "53 Main Street, Geneseo, NY",
+		"coordinates": ["42.796797", "-77.816684"],
+		"description": {
+			"Internet": "Open and fast: SSID id 'Linksys'(!) No password.",
+			"Power Outlets": "Plentiful.",
+			"Seating": "Tables, chairs and some old but very comfortable sofas",
+			"Service": "Very friendly students from SUNY Geneseo",
+			"Provision": "Coffee, pastries, light meals",
+		},
+		"link": {"homepage":"http://muddywaterscoffeeroasters.com/geneseo.html"}
+	},
+	{
+		"city": "Pittsburgh",
+		"country": "USA",
+		"name": "Cafe 61C",
+		"address": "1839 Murray Ave",
+		"coordinates": ["40.436165", "-79.922762"],
+		"description": {
+			"Internet": "Free wifi, good speed",
+			"Power Outlets": "Some tables have outlets nearby",
+			"Seating": "Small tables however you can combine to make a larger table",
+			"Service": "Very friendly",
+			"Provision": "Coffee, tea, juices, cake, bagels",
+		},
+		"link": {"homepage":"http://61ccafe.com/"}
+	},
+	{
+		"city": "Montreal",
+		"country": "Canada",
+		"name": "Humble Lion",
+		"address": "904 Rue Sherbrooke Ouest",
+		"coordinates": ["45.503274", "-73.574787"],
+		"description": {
+			"Internet": "Free wifi, good speed, ask for password",
+			"Power Outlets": "Pretty good for outlets",
+			"Seating": "Not a lot of seating, but perfect table height",
+			"Service": "Very friendly",
+			"Provision": "Coffee, Tea, Scone, Pastries",
+		},
+		"link": {"homepage":"http://cafehumblelion.com/"}
 	}
 ]
